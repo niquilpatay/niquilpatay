@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me...
 👋 Hola, soy Nahuel.<br>🧠 En búsqueda de conocimientos acerca de desarrollo y experiencia laboral en el rubro.<br>📚 Estudiante en el último año de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional.
 
 # 💻 Tech Stack:
